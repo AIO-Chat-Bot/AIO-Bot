@@ -19,7 +19,7 @@
 2) Open cmd and cd to the directory
 3) Write this command: `npm i ` so all needed pakages are installed
 4) Configure the bot in config.json
-5) Write `node .` and your ready!
+5) Write `node index.js` and your ready!
 ---
 
 ## Where can i find the plugins?
