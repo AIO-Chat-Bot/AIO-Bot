@@ -1,7 +1,7 @@
 ## <div align="center">AIO Bot</div>
 
 [![Github last commit date](https://img.shields.io/github/last-commit/AIO-Chat-Bot/AIO-Bot.svg?label=Updated&logo=github&cacheSeconds=600)](https://github.com/AIO-Chat-Bot/AIO-Bot/commits)
-[![Total downloads](https://img.shields.io/github/downloads/AIO-Chat-Bot/AIO-Bot/total.svg?label=Downloads&logo=github&cacheSeconds=600)](https://github.com/AIO-Chat-Bot/AIO-Bot/releases)
+[![Total downloads](https://img.shields.io/github/downloads/AIO-Chat-Bot/AIO-Bot/total.svg?label=Downloads&logo=github&cacheSeconds=600)](https://github.com/AIO-Chat-Bot/AIO-Bot/releases/latest)
 [![License](https://img.shields.io/github/license/AIO-Chat-Bot/AIO-Bot.svg?label=License&logo=apache&cacheSeconds=2592000)](https://github.com/AIO-Chat-Bot/AIO-Bot/blob/main/LICENSE.txt)
 [![Discord](https://img.shields.io/discord/1050524479341727805.svg?color=7289da&label=Discord&logo=discord&logoColor=white&cacheSeconds=3600)](https://discord.gg/nBhNgfNKmU)
 ---
