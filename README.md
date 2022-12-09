@@ -8,7 +8,7 @@
 ![Alt](https://repobeats.axiom.co/api/embed/d25674b588242bbaed86638d8d7fd15c6bd47af3.svg "Repobeats analytics image")
 ---
 ## Description
-##### AIO Bot is a JavaScript project with is created in framework Discord.js to work as a base for plugins made by us or py other people.
+##### AIO Bot is a JavaScript project with is created in framework Discord.js to work as a base for plugins made by us or by other people.
 ---
 ## Core features
 - Easy to setup
