@@ -24,3 +24,7 @@
 
 ## Where can i find the plugins?
 You can find all plugins here: https://github.com/topics/aio-chat-bot
+## Why is there a Socket.io?
+There is one and only reason i use Socket.IO to get if bot is online or not. I then use this to show this info there:
+![image](https://user-images.githubusercontent.com/55330408/206789521-aff89f83-c1e0-4c48-b0fa-63ca8cbd85c7.png)
+
