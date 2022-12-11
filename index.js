@@ -27,7 +27,7 @@ events.forEach(event => {
 
 socket.on('message', function (data) {
   if(data) {
-    console.log('\n\nCONNECTED TO THE SERVERS\n');
+    console.log('\n\n'+data.info+'\n');
   } else {
     console.log('\n\nSERVERS OFFLINE\n')
   }
